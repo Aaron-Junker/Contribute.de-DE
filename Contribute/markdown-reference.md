@@ -28,37 +28,37 @@ Warnungen sind eine Markdownerweiterung zum Erstellen von Blockzitaten, die auf 
 
 ```markdown
 > [!NOTE]
-> Information the user should notice even if skimming.
+> Informationen, die der Benutzer auch beim Überfliegen beachten sollte.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Zusätzliche Informationen, die dem Benutzer helfen erfolgreicher zu werden.
 
 > [!IMPORTANT]
-> Essential information required for user success.
+> Informationen welche für den Erfolg des Benutzers gebraucht werden.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> Mögliche negative Konsequenzen einer Aktion.
 
 > [!WARNING]
-> Dangerous certain consequences of an action.
+> Mögliche gefährliche Konsequenzen einer Aktion.
 ```
 
 Diese Warnungen sehen auf docs.microsoft.com folgendermaßen aus:
 
 > [!NOTE]
-> Information the user should notice even if skimming.
+> Informationen, die der Benutzer auch beim Überfliegen beachten sollte.
 
 > [!TIP]
-> Optional information to help a user be more successful.
+> Zusätzliche Informationen, die dem Benutzer helfen erfolgreicher zu werden.
 
 > [!IMPORTANT]
-> Essential information required for user success.
+> Informationen welche für den Erfolg des Benutzers gebraucht werden.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> Mögliche negative Konsequenzen einer Aktion.
 
 > [!WARNING]
-> Dangerous certain consequences of an action.
+> Mögliche gefährliche Konsequenzen einer Aktion.
 
 ### <a name="angle-brackets"></a>Geschweifte Klammern
 
@@ -84,7 +84,7 @@ Hier sind die Codierungen für die typografischen Versionen dieser Satzzeichen:
 Blockzitate werden mit dem `>`-Zeichen generiert:
 
 ```md
-> This is a blockquote. It is usually rendered indented and with a different background color.
+> Dies ist ein Blockzitat. Es wird normalerweise eingerückt und mit einer anderen Hintergrundfarbe gerendert.
 ```
 
 Das vorherige Beispiel wird wie folgt gerendert:
@@ -96,19 +96,19 @@ Das vorherige Beispiel wird wie folgt gerendert:
 Um Text **fett** zu formatieren, schließen Sie ihn in vier Sternchen ein:
 
 ```markdown
-This text is **bold**.
+Dieser Text ist **fett**.
 ```
 
 Um Text *kursiv* zu formatieren, schließen Sie ihn in zwei Sternchen ein:
 
 ```markdown
-This text is *italic*.
+Dieser Text ist *kursiv*.
 ```
 
 Um Text ***fett und kursiv*** zu formatieren, schließen Sie ihn in sechs Sternchen ein:
 
 ```markdown
-This text is both ***bold and italic***.
+Dieser Text ist beides ***fett und kursiv***.
 ```
 
 ## <a name="code-snippets"></a>Codeausschnitte
