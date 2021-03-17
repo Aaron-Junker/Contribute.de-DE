@@ -28,7 +28,7 @@ Warnungen sind eine Markdownerweiterung zum Erstellen von Blockzitaten, die auf 
 
 ```markdown
 > [!NOTE]
-> Informationen, die der Benutzer auch beim Überfliegen beachten sollte.
+> Informationen, die der Benutzer auch beim schnellen Querlesen beachten sollte.
 
 > [!TIP]
 > Zusätzliche Informationen, die dem Benutzer helfen erfolgreicher zu werden.
