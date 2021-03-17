@@ -49,7 +49,7 @@ Diese Warnungen sehen auf docs.microsoft.com folgendermaßen aus:
 > Informationen, die der Benutzer auch beim Überfliegen beachten sollte.
 
 > [!TIP]
-> Zusätzliche Informationen, die dem Benutzer helfen erfolgreicher zu werden.
+> Zusätzliche Informationen, die dem Benutzer helfen, erfolgreicher zu werden.
 
 > [!IMPORTANT]
 > Informationen welche für den Erfolg des Benutzers gebraucht werden.
