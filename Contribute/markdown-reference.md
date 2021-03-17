@@ -52,7 +52,7 @@ Diese Warnungen sehen auf docs.microsoft.com folgendermaßen aus:
 > Zusätzliche Informationen, die dem Benutzer helfen, erfolgreicher zu werden.
 
 > [!IMPORTANT]
-> Informationen welche für den Erfolg des Benutzers gebraucht werden.
+> Informationen, die zum Erfolg des Benutzers beitragen.
 
 > [!CAUTION]
 > Mögliche negative Konsequenzen einer Aktion.
