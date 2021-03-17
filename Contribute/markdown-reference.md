@@ -108,7 +108,7 @@ Dieser Text ist *kursiv*.
 Um Text ***fett und kursiv*** zu formatieren, schließen Sie ihn in sechs Sternchen ein:
 
 ```markdown
-Dieser Text ist beides ***fett und kursiv***.
+Dieser Text ist ***sowohl fett als auch kursiv***.
 ```
 
 ## <a name="code-snippets"></a>Codeausschnitte
